@@ -1,0 +1,62 @@
+.subscription {
+  .speaker-form {
+    position: relative;
+    margin-top: 10px;
+  }
+}
+
+.subscription {
+  .join-in {
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    color: #fff;
+  }
+}
+
+.footer-input {
+  display: flex;
+  width: 358px;
+  height: 50px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+  border-radius: 4px;
+  background-color: #2f303a;
+  padding-left: 16px;
+  color: #757575;
+  margin-right: 12px;
+}
+
+.speaker-btn {
+  position: absolute;
+  display: flex;
+  width: 200px;
+  height: 50px;
+  border-radius: 4px;
+  background-color: var(--accent-color);
+  border: none;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  bottom: 0;
+  left: 370px;
+}
+
+.inf-btn {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  margin: 10px 10px 10px 29px;
+}
+
+.inf-icon {
+  margin-top: 13px;
+  fill: #fff;
+}
